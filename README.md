@@ -1,3 +1,5 @@
+Its Obfuscated because dont want to get stolen code
+
 ## `GEN` `🤡`
 ```
 Easy-To-Use Token Generator
