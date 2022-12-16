@@ -1,5 +1,3 @@
-Its Obfuscated because dont want to get stolen code
-
 ## `GEN` `🤡`
 ```
 Easy-To-Use Token Generator
@@ -18,5 +16,5 @@ Start start.bat
 ```
 
 ## `SUPPORT` `👋`
-> Discord Server - [Omega](https://discord.gg/aJUf8TJ2Kp) <br>
+> Discord Server - [Rocket Tokens](https://discord.gg/aJUf8TJ2Kp) <br>
 > Discord Friend Request - [Request](https://discord.gg/nsdpXqVM)
