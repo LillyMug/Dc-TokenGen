@@ -1,6 +1,8 @@
 import subprocess
 import os
 
+os.chdir("src")
+
 test_process = subprocess.Popen(["python", "main.py"])
 test_process.wait()
 
@@ -10,4 +12,3 @@ else:
     print("failed with error code: {}".format(test_process.returncode))
 
 
-os.chdir("src")
