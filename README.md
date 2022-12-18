@@ -16,5 +16,5 @@ Start start.bat
 ```
 
 ## `SUPPORT` `👋`
-> Discord Server - [Rocket Tokens](https://discord.gg/aJUf8TJ2Kp) <br>
+> Discord Server - [Omega Tokens](https://discord.gg/aJUf8TJ2Kp) <br>
 > Discord Friend Request - [Request](https://discord.gg/nsdpXqVM)
