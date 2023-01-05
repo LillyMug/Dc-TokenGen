@@ -8,7 +8,7 @@ Python
 ```
 
 ## `HOW TO USE` `🌐`
-If you are having trouble installing the module, or github repository, run this exact script
+If you are having trouble installing the module, or github repository, run this exact script or join Discord
 ```
 add Proxys to Proxy.txt
 add Webhook to Config /if you want/
